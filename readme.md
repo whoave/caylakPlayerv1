@@ -1,4 +1,4 @@
-**Eklenti Adı: **caylakplayer
+**Eklenti Adı:** caylakplayer
 **Yapımcı:** MERT CAN USLU
 **Açıklama**: Siteleriniz için düzenlenebilir video player.
 [DEMO İÇİN TIKLAYIN ](https://bathremodel.info/caylakPlayer/ "DEMO İÇİN TIKLAYIN ")
